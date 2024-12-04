@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation
+/.vs/TodoApi/FileContentIndex
+/.vs/TodoApi/v17
+/.vs/TodoApi/DesignTimeBuild
+/.vs/TodoApi/config
+/TodoApi/bin/Debug/net8.0
+/TodoApi/obj/*
+/TestTodoApi/bin/Debug/net8.0
+/.vs
+/TestTodoApi/obj
